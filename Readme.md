@@ -33,7 +33,7 @@
 
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
-  <a href="https://qadeermd-pair.onrender.com/">
+  <a href="https://qadeer-md-pair-hvah.onrender.com">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
